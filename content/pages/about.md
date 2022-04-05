@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Who am I Miguel Angel Apolonio Silverio
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me encanta la tecnologia ahora mismo me hando enfocando al desarrollo web.
+> Como hobbie tengo la seguridad informatica ya que me ha llamado bastante la atención.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Actualmente estoy estudiante Ing.Computación y telecomunicaciones
+Ando en últimos trimestres en la universidad, ando en constante crecimiento.
 
