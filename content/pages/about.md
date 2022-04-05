@@ -5,7 +5,7 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I Miguel Angel Apolonio Silverio
+## Who am I Miguel Angel
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
